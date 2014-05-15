@@ -1,0 +1,9 @@
+# exclude everything in plugins/* except plugins/.dummy.deleteme
+!/plugins
+/plugins/*
+!/plugins/.dummy.deleteme
+# exclude everything in platforms/* except platforms/.dummy.deleteme
+!/platforms
+/platforms/*
+!/platforms/.dummy.deleteme
+

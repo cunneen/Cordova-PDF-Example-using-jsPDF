@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" id="net.cunneen.jspdfcordova.jsPDFCordova" version="1.0.0">
+    <name>jsPDF Demo</name>
+    <description>
+        A sample Cordova application that creates or emails a PDF.
+    </description>
+    <author email="mike_at_cunneen.biz@example.com" href="http://cordova.io">
+        Mike Cunneen
+    </author>
+    <content src="index.html"/>
+    <access origin="*"/>
+</widget>
